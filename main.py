@@ -1,10 +1,18 @@
-import numpy as np
+from statistics import stdev
+#import pandas as pd
 import requests
 
 '''
 Common themes are each represented four times in different variations among the
 121 packs, rare themes twice, and mythic themes are represented only once.
 Mythic cards are 1 in 121 packs - rare cards are 2 in 121 packs
+'''
+
+'''
+Card rarity approximations:
+Individual mythic cards printed in Jumpstart are going to be in one out of every 121 packs.
+Individual rare cards might be printed in two packs, but some might not be. Also, one out
+of three Jumpstart packs will include two cards printed at rare.
 '''
 
 headers = {
@@ -26,9 +34,10 @@ def extract_data(data: list, keys:list = ['name', 'rarity']) -> list:
     try:
         for card in data:
             temp = {}
-            temp['price'] = data['prices']['usd']
+            price = card['prices']['usd']
+            temp['price'] = float(price) if price is not None else 0
             for key in keys:
-                temp[key] = data[key]
+                temp[key] = card[key]
             
             new_data.append(temp)
 
@@ -63,19 +72,34 @@ def get_data_from_set(set: str) -> list:
             #no more pages, query done - return data
             return data
 
-def main():
-    request_delay = 0.075
+# analysis functions #
+def max_card(data:list) -> dict:
+    max = data[0]
+    for card in data:
+        if card['price'] > max['price']:
+            max = card  
     
-    r = requests.get('https://api.scryfall.com/cards/search?q=set:jmp+-type:land', headers=headers)
-    
-    try:
-        r.raise_for_status()
-    except Exception as e:
-        print(f'an exception has occured: {e}')
+    return max
 
-    data = r.json()
-    prices = []
+def mean(data:list) -> float:
+    sum = 0
+    for card in data:
+        sum += card['price']
     
+    return sum / len(data)
+
+def standard_dev(data:list) -> float:
+    prices = []
+    for card in data:
+        prices.append(card['price'])
+    
+    return stdev(prices)
+
+def main():
+    data = get_data_from_set('jmp')
+    print(f'Mean: ${mean(data):.2f}')
+    print(f'Stdev: ${standard_dev(data):.2f}')
+    print(f'Best card: {max_card(data)}')
 
 
 if __name__ == '__main__':
