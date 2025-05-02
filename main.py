@@ -73,33 +73,76 @@ def get_data_from_set(set: str) -> list:
             return data
 
 # analysis functions #
-def max_card(data:list) -> dict:
+def max_card(data:list, key:str = 'price') -> dict:
     max = data[0]
     for card in data:
-        if card['price'] > max['price']:
+        if card[key] > max[key]:
             max = card  
     
     return max
 
-def mean(data:list) -> float:
+def mean(data:list, key:str = 'price') -> float:
     sum = 0
     for card in data:
-        sum += card['price']
+        sum += card[key]
     
     return sum / len(data)
 
-def standard_dev(data:list) -> float:
+def standard_dev(data:list, key:str = 'price') -> float:
     prices = []
     for card in data:
-        prices.append(card['price'])
+        prices.append(card[key])
     
     return stdev(prices)
 
+def calculate_odds(data:list) -> list[dict]:
+    '''
+    Appends to each dict entry in a list the odds of such entry being present in
+    a jumpstart pack.
+
+    Considering there are 121 possible packs - each card has an x / 121 chance of appearing
+    in any given pack, where x is the number of times it occurs in each decklist.
+
+    :param data list: A list of dictionaries containing at minimum the names of cards
+    :returns list[dict]: A modified list of dictionaries containing a new key 'probability' with the odds of obtaining the card in question
+    '''
+    #convert files to dict
+    counts = {}
+    with open('jumpstart_cards.txt', 'r') as f:
+        for line in f:
+            ct, nm = line.strip().split(' ', 1)
+            counts[nm] = int(ct)
+    
+    #iterate thru data - calc probability and append at each entry
+    for card in data:
+        num = counts.get(card['name'], 0)
+        card['probability'] = num / 121
+    
+    return data
+
+def calculate_weighted_value(data:list) -> list[dict]:
+    '''
+    Appends to each dict entry in a list the weighted value of each card.
+
+    Simply multiplies card probability by price to weight the expected value.
+    '''
+
+    for card in data:
+        card['weighted'] = card['price'] * card['probability']
+    
+    return data
+
 def main():
-    data = get_data_from_set('j25')
+    data = get_data_from_set('jmp')
     print(f'Mean: ${mean(data):.2f}')
     print(f'Stdev: ${standard_dev(data):.2f}')
     print(f'Best card: {max_card(data)}')
+    data = calculate_odds(data)
+    print(f'Probability of this card: {max_card(data)['name']} = %{(max_card(data)['probability'])*100:.2f}')
+    data = calculate_weighted_value(data)
+    print(f'Mean expected value: ${mean(data, 'weighted'):.2f}')
+    print(f'Stdev expected value: ${standard_dev(data, 'weighted'):.2f}')
+    print(f'Expected value of best card: {max_card(data)['name']} = ${max_card(data)['weighted']:.2f}')
 
 
 if __name__ == '__main__':
