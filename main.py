@@ -96,7 +96,7 @@ def standard_dev(data:list) -> float:
     return stdev(prices)
 
 def main():
-    data = get_data_from_set('jmp')
+    data = get_data_from_set('j25')
     print(f'Mean: ${mean(data):.2f}')
     print(f'Stdev: ${standard_dev(data):.2f}')
     print(f'Best card: {max_card(data)}')
