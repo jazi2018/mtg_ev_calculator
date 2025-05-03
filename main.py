@@ -2,7 +2,9 @@ from statistics import stdev
 #import pandas as pd
 import requests
 import monte_carlo
-import pandas as pd
+#import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 '''
 Common themes are each represented four times in different variations among the
@@ -147,18 +149,61 @@ def calculate_weighted_value(data:list) -> list[dict]:
 
 def main():
     sets = ['jmp', 'j22', 'j25']
+    dfs = {}
     for set in sets:
         data = get_data_from_set(set)
         packs = monte_carlo.get_jset_prices(set, data)
-        df = monte_carlo.sim_n_packs(packs, x_sims=100000)
+        df = monte_carlo.sim_n_packs(packs, n_packs=2)
         #pack_df = pd.DataFrame(list(packs.items()), columns = ['deck', 'value'])
         print(f'{set}:')
         #print(pack_df.describe())
         print(df.describe())
+        dfs[set] = df
     
-    import seaborn as sns
-    import matplotlib.pyplot as plt
-    sns.histplot(df, x='value', kde=True, color='red')
+    colors = ['red', 'blue', 'green']
+    fig, axes = plt.subplots(2, 3, figsize=(15, 8))  # 2 rows, 3 columns
+
+    # Add a main title for the entire figure
+    fig.suptitle('Value Distribution of 2 Jumpstart Boosters Over 1000000 Simulations', fontsize=16, fontweight='bold', y=0.98)
+
+    for i, (j_set, color) in enumerate(zip(sets, colors)):
+        # Create histogram
+        sns.histplot(dfs[j_set], x='value', kde=True, color=color, ax=axes[0, i])
+        axes[0, i].set_title(f'Value distribution of {j_set}')
+        axes[0, i].set_xlabel('Value (USD)')
+        axes[0, i].set_ylabel('Frequency')
+        
+        # Calculate mean for the histogram
+        mean_value = dfs[j_set]['value'].mean()
+        
+        # Add a vertical line at the mean
+        axes[0, i].axvline(x=mean_value, color='black', linestyle='--', linewidth=1.5)
+
+        # Create boxplot
+        sns.boxplot(dfs[j_set], x='value', color=color, ax=axes[1, i])
+        axes[1, i].set_xlabel('Value (USD)')
+        
+        # Calculate quartiles and median
+        q1 = dfs[j_set]['value'].quantile(0.25)
+        median = dfs[j_set]['value'].median()
+        q3 = dfs[j_set]['value'].quantile(0.75)
+        iqr = q3 - q1
+        
+        # Create a statistics text box in the top left corner of the boxplot
+        stats_text = (f"Statistics:\n"
+                    f"Q1: {q1:.2f}\n"
+                    f"Median: {median:.2f}\n"
+                    f"Q3: {q3:.2f}\n"
+                    f"IQR: {iqr:.2f}\n"
+                    f"Mean: {mean_value:.2f}")  # Added mean to the stats box too
+        
+        # Position it at the top left corner of the plot
+        axes[1, i].text(0.70, 0.95, stats_text, transform=axes[1, i].transAxes, 
+                    verticalalignment='top', horizontalalignment='left',
+                    bbox=dict(boxstyle='round', facecolor='white', alpha=0.8))
+
+    # Adjust layout to make room for the main title
+    plt.tight_layout()
     plt.show()
 
 
