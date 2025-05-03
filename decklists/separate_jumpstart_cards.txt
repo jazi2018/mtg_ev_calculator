@@ -1,0 +1,1807 @@
+Basri
+1 Basri's Acolyte
+1 Basri's Lieutenant
+1 Concordia Pegasus
+1 Knight of the Tusk
+1 Siege Striker
+1 Staunch Shieldmate
+1 Tempered Veteran
+1 Basri Ket
+1 Feat of Resistance
+1 Basri's Solidarity
+1 Legion's Judgment
+1 Faith's Fetters
+1 Thriving Heath
+7 Plains
+Unicorns
+1 Brightmare
+1 Daybreak Charger
+1 Emiel the Blessed
+1 Inspiring Unicorn
+1 Mesa Unicorn
+1 Ronom Unicorn
+1 Valorous Steed
+1 Cloudshift
+1 Inspired Charge
+1 Valorous Stance
+1 Blessed Sanctuary
+1 Faith's Fetters
+1 Thriving Heath
+7 Plains
+Angels 1
+1 Angelic Page
+1 Anointed Chorister
+1 Celestial Enforcer
+1 Baneslayer Angel
+1 Emancipation Angel
+1 Serra Angel
+1 Voice of the Provinces
+1 Angelic Ascension
+1 Feat of Resistance
+1 Angelic Edict
+1 Guardian Idol
+1 Scroll of Avacyn
+1 Thriving Heath
+7 Plains
+Angels 2
+1 Angelic Arbiter
+1 Angelic Page
+1 Anointed Chorister
+1 Celestial Enforcer
+1 Emancipation Angel
+1 Linvala, Keeper of Silence
+1 Serra Angel
+1 Angelic Ascension
+1 Take Heart
+1 Angelic Edict
+1 Guardian Idol
+1 Scroll of Avacyn
+1 Thriving Heath
+7 Plains
+Dogs 1
+1 Affa Guard Hound
+1 Alpine Watchdog
+1 Cathar's Companion
+1 Pack Leader
+1 Rambunctious Mutt
+1 Selfless Savior
+1 Supply Runners 
+1 Trusty Retriever
+1 Feat of Resistance
+1 Release the Dogs 
+1 Secure the Scene
+1 Pacifism
+1 Thriving Heath
+7 Plains
+Dogs 2
+1 Affa Guard Hound
+1 Alpine Watchdog
+1 Cathar's Companion
+1 Isamaru, Hound of Konda
+1 Pack Leader
+1 Rambunctious Mutt
+1 Supply Runners 
+1 Trusty Retriever
+1 Dauntless Onslaught
+1 Release the Dogs 
+1 Secure the Scene
+1 Pacifism
+1 Thriving Heath
+7 Plains
+Enchanted 1
+1 Anointed Chorister
+1 Blessed Spirits
+1 Knight of the Tusk
+1 Kor Spiritdancer
+1 Stone Haven Pilgrim
+1 Trusty Retriever
+1 Dub
+1 Face of Divinity
+1 Faith's Fetters
+1 Forced Worship
+1 Indomitable Will
+1 Knightly Valor
+1 Thriving Heath
+7 Plains
+Enchanted 2
+1 Ajani's Chosen
+1 Blessed Spirits
+1 Bulwark Giant
+1 Staunch Shieldmate
+1 Stone Haven Pilgrim
+1 Trusty Retriever
+1 Celestial Mantle
+1 Face of Divinity
+1 Faith's Fetters
+1 Forced Worship
+1 Indomitable Will
+1 Knightly Valor
+1 Thriving Heath
+7 Plains
+Doctor 1
+1 Anointed Chorister
+1 Basri's Acolyte
+1 Brightmare
+1 Bulwark Giant
+1 Mesa Unicorn
+1 Speaker of the Heavens
+1 Revitalize
+1 Swift Response
+1 Take Heart
+1 Faith's Fetters
+1 Griffin Aerie
+1 Light of Promise
+1 Thriving Heath
+7 Plains
+Doctor 2
+1 Angel of Mercy
+1 Anointed Chorister
+1 Basri's Acolyte
+1 Brightmare
+1 Speaker of the Heavens
+1 Stone Haven Pilgrim
+1 Moment of Heroism
+1 Revitalize
+1 Swift Response
+1 Secure the Scene
+1 Griffin Aerie
+1 Light of Promise
+1 Thriving Heath
+7 Plains
+Doctor 3
+1 Angel of Mercy
+1 Anointed Chorister
+1 Basri's Acolyte
+1 Brightmare
+1 Mesa Unicorn
+1 Rhox Faithmender
+1 Moment of Heroism
+1 Revitalize
+1 Swift Response
+1 Faith's Fetters
+1 Griffin Aerie
+1 Light of Promise
+1 Thriving Heath
+7 Plains
+Doctor 4
+1 Alabaster Mage
+1 Angel of Mercy
+1 Anointed Chorister
+1 Basri's Acolyte
+1 Brightmare
+1 Bulwark Giant
+1 Stone Haven Pilgrim
+1 Revitalize
+1 Swift Response
+1 Cradle of Vitality
+1 Griffin Aerie
+1 Path of Bravery
+1 Thriving Heath
+7 Plains
+Feathered Friends 1
+1 Aven Gagglemaster
+1 Celestial Enforcer
+1 Concordia Pegasus
+1 Falconer Adept
+1 Gale Swooper
+1 Healer's Hawk
+1 Steel-Plume Marshal
+1 Warded Battlements
+1 Dauntless Onslaught
+1 Moment of Heroism
+1 Aerial Assault
+1 Sky Tether
+1 Thriving Heath
+7 Plains
+Feathered Friends 2
+1 Aven Gagglemaster
+1 Celestial Enforcer
+1 Concordia Pegasus
+1 Falconer Adept
+1 Gale Swooper
+1 Healer's Hawk
+1 Steel-Plume Marshal
+1 Warded Battlements
+1 Angelic Ascension
+1 Swift Response
+1 Tandem Tactics
+1 Sky Tether
+1 Thriving Heath
+7 Plains
+Feathered Friends 3
+1 Angel of the Dire Hour
+1 Aven Gagglemaster
+1 Celestial Enforcer
+1 Concordia Pegasus
+1 Falconer Adept
+1 Gale Swooper
+1 Healer's Hawk
+1 Warded Battlements
+1 Dauntless Onslaught
+1 Swift Response
+1 Take Heart
+1 Sky Tether
+1 Thriving Heath
+7 Plains
+Feathered Friends 4
+1 Archon of Justice
+1 Archon of Redemption
+1 Celestial Enforcer
+1 Concordia Pegasus
+1 Falconer Adept
+1 Gale Swooper
+1 Healer's Hawk
+1 Warded Battlements
+1 Aegis of the Heavens
+1 Dauntless Onslaught
+1 Aerial Assault
+1 Sky Tether
+1 Thriving Heath
+7 Plains
+Heavily Armored 1
+1 Basri's Acolyte 
+1 Bulwark Giant 
+1 Lightwalker 
+1 Makeshift Battalion
+1 Patron of the Valiant 
+1 Siege Striker 
+1 Tempered Veteran 
+1 Trusty Retriever
+1 Feat of Resistance
+1 Basri's Solidarity 
+1 Secure the Scene 
+1 Cathars' Crusade
+1 Thriving Heath
+7 Plains
+Heavily Armored 2
+1 Basri's Acolyte 
+1 Bulwark Giant 
+1 Lightwalker 
+1 Makeshift Battalion
+1 Patron of the Valiant 
+1 Siege Striker 
+1 Tempered Veteran 
+1 Trusty Retriever
+1 Battlefield Promotion
+1 Gird for Battle
+1 Secure the Scene 
+1 Cathars' Crusade
+1 Thriving Heath
+7 Plains
+Heavily Armored 3
+1 Basri's Acolyte 
+1 Bulwark Giant
+1 Lightwalker
+1 Makeshift Battalion
+1 Mikaeus, the Lunarch 
+1 Patron of the Valiant 
+1 Supply Runners 
+1 Tempered Veteran 
+1 Trusty Retriever
+1 Battlefield Promotion 
+1 Divine Arrow
+1 Basri's Solidarity 
+1 Thriving Heath
+7 Plains
+Heavily Armored 4
+1 Basri's Acolyte 
+1 Bulwark Giant 
+1 Lightwalker 
+1 High Sentinels of Arashin 
+1 Makeshift Battalion
+1 Siege Striker 
+1 Supply Runners
+1 Tempered Veteran
+1 Trusty Retriever 
+1 Long Road Home
+1 Swift Response 
+1 Duelist's Heritage
+1 Thriving Heath
+7 Plains
+Legion 1
+1 Daybreak Charger
+1 Falconer Adept
+1 Knight of the Tusk
+1 Makeshift Battalion
+1 Selfless Savior
+1 Valorous Steed
+1 Inspired Charge
+1 Path to Exile
+1 Raise the Alarm
+1 Basri's Solidarity
+1 Legion's Judgment
+1 Blessed Sanctuary
+1 Thriving Heath
+7 Plains
+Legion 2
+1 Daybreak Charger
+1 Inspiring Captain
+1 Makeshift Battalion
+1 Siege Striker
+1 Staunch Shieldmate
+1 Valorous Steed
+1 Raise the Alarm
+1 Basri's Solidarity
+1 Legion's Judgment
+1 Release the Dogs
+1 Glorious Anthem
+1 Faith's Fetters
+1 Thriving Heath
+7 Plains
+Legion 3
+1 Daybreak Charger
+1 Makeshift Battalion
+1 Siege Striker
+1 Staunch Shieldmate
+1 Valorous Steed
+1 Raise the Alarm
+1 Fortify
+1 Basri's Solidarity
+1 Legion's Judgment
+1 Release the Dogs
+1 Glorious Anthem
+1 Faith's Fetters
+1 Thriving Heath
+7 Plains
+Legion 4
+1 Daybreak Charger
+1 Lena, Selfless Champion
+1 Makeshift Battalion
+1 Mentor of the Meek
+1 Selfless Savior
+1 Siege Striker
+1 Valorous Steed
+1 Raise the Alarm
+1 Fortify
+1 Basri's Solidarity
+1 Legion's Judgment
+1 Faith's Fetters
+1 Thriving Heath
+7 Plains
+Teferi
+1 Prescient Chimera
+1 Sage's Row Savant
+1 Teferi's Protege
+1 Tolarian Kraken
+1 Vodalian Arcanist
+1 Teferi, Master of Time
+1 Exclude
+1 Leave in the Dust
+1 Opt
+1 Talrand's Invocation
+1 Teferi's Ageless Insight
+1 Teferi's Tutelage
+1 Thriving Isle
+7 Island
+Milling
+1 Belltower Sphinx
+1 Bruvac the Grandiloquent
+1 Reckless Scholar
+1 Selhoff Occultist
+1 Towering-Wave Mystic
+1 Vedalken Entrancer
+1 Wall of Lost Thoughts
+1 Sweep Away
+1 Thought Collapse
+1 Thought Scour
+1 Capture Sphere
+1 Teferi's Tutelage
+1 Thriving Isle
+7 Island
+Pirates 1
+1 Corsair Captain
+1 Departed Deckhand
+1 Kitesail Corsair
+1 Prosperous Pirates
+1 Rishadan Airship
+1 Sailor of Means
+1 Spectral Sailor
+1 Voyage's End
+1 Chart a Course
+1 Coastal Piracy
+1 Waterknot
+1 Pirate's Cutlass
+1 Thriving Isle
+7 Island
+Pirates 2
+1 Corsair Captain
+1 Departed Deckhand
+1 Kitesail Corsair
+1 Prosperous Pirates
+1 Rishadan Airship
+1 Sailor of Means
+1 Spectral Sailor
+1 Chart a Course
+1 Read the Tides
+1 Capture Sphere
+1 Curious Obsession
+1 Pirate's Cutlass
+1 Thriving Isle
+7 Island
+Spirits 1
+1 Battleground Geist
+1 Departed Deckhand
+1 Murmuring Phantasm
+1 Nebelgast Herald
+1 Roaming Ghostlight
+1 Shacklegeist
+1 Tome Anima
+1 Befuddle
+1 Essence Flux
+1 Frost Breath
+1 Winged Words
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+Spirits 2
+1 Battleground Geist
+1 Departed Deckhand
+1 Nebelgast Herald
+1 Rattlechains
+1 Roaming Ghostlight
+1 Shacklegeist
+1 Tome Anima
+1 Frost Breath
+1 Rewind
+1 Rookie Mistake
+1 Winged Words
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+Under the Sea 1
+1 Aegis Turtle
+1 Octoprophet
+1 Pursued Whale
+1 Sigiled Starfish
+1 Tolarian Kraken
+1 Waker of Waves
+1 Wishful Merfolk
+1 Voyage's End
+1 Rousing Read
+1 Waterknot
+1 Unstable Obelisk
+1 Thriving Isle
+8 Island
+Under the Sea 2
+1 Aegis Turtle
+1 Cryptic Serpent
+1 Octoprophet
+1 Pursued Whale
+1 Sigiled Starfish
+1 Waker of Waves
+1 Wishful Merfolk
+1 Sweep Away
+1 Whelming Wave
+1 Waterknot
+1 Unstable Obelisk
+1 Thriving Isle
+8 Island
+Above the Clouds 1
+1 Inniaz, the Gale Force
+1 Keen Glidemaster
+1 Mistral Singer
+1 Roaming Ghostlight
+1 Tide Skimmer
+1 Wall of Runes
+1 Warden of Evos Isle
+1 Lofty Denial
+1 Rain of Revelation
+1 Rookie Mistake
+1 Unsubstantiate
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+Above the Clouds 2
+1 Inniaz, the Gale Force
+1 Keen Glidemaster
+1 Mistral Singer
+1 Roaming Ghostlight
+1 Tide Skimmer
+1 Wall of Runes
+1 Frost Breath
+1 Lofty Denial
+1 Rain of Revelation
+1 Unsubstantiate
+1 Talrand's Invocation
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+Above the Clouds 3
+1 Keen Glidemaster
+1 Roaming Ghostlight
+1 Serendib Efreet
+1 Tide Skimmer
+1 Wall of Runes
+1 Warden of Evos Isle
+1 Windreader Sphinx
+1 Frost Breath
+1 Lofty Denial
+1 Rain of Revelation
+1 Unsubstantiate
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+Above the Clouds 4
+1 Keen Glidemaster
+1 Kira, Great Glass-Spinner
+1 Mistral Singer
+1 Roaming Ghostlight
+1 Tide Skimmer
+1 Wall of Runes
+1 Windstorm Drake
+1 Lofty Denial
+1 Rain of Revelation
+1 Rookie Mistake
+1 Unsubstantiate
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+Archaeology 1
+1 Ancestral Statue
+2 Archaeomender
+1 Erratic Visionary
+1 Juggernaut
+1 Lightning-Core Excavator
+1 Meteor Golem
+1 Scholar of the Lost Trove
+1 Thirst for Knowledge
+1 Aether Spellbomb
+1 Chromatic Sphere
+1 Hedron Archive
+1 Buried Ruin
+1 Thriving Isle
+6 Island
+Archaeology 2
+1 Ancestral Statue
+2 Archaeomender
+1 Erratic Visionary
+1 Juggernaut
+1 Lightning-Core Excavator
+1 Meteor Golem
+1 Scholar of the Lost Trove
+1 Thirst for Knowledge
+1 Aether Spellbomb
+1 Dreamstone Hedron
+1 Terrarion
+1 Buried Ruin
+1 Thriving Isle
+6 Island
+Archaeology 3
+1 Ancestral Statue
+2 Archaeomender
+1 Juggernaut
+1 Lightning-Core Excavator
+1 Meteor Golem
+1 Prismite
+1 Sharding Sphinx
+1 Vedalken Archmage
+1 Thirst for Knowledge
+1 Aether Spellbomb
+1 Hedron Archive
+1 Buried Ruin
+1 Thriving Isle
+6 Island
+Archaeology 4
+2 Archaeomender
+1 Jousting Dummy
+1 Juggernaut
+1 Lightning-Core Excavator
+1 Meteor Golem
+1 Scarecrone
+1 Scuttlemutt
+1 Signpost Scarecrow
+1 Thirst for Knowledge
+1 Aether Spellbomb
+1 Short Sword
+1 Buried Ruin
+1 Thriving Isle
+6 Island
+Well-Read 1
+1 Erratic Visionary
+1 Library Larcenist
+1 Oneirophage
+1 Ormos, Archive Keeper
+1 Runed Servitor
+1 Suspicious Bookcase
+1 Tolarian Kraken
+1 Tome Anima
+1 Opt
+1 Curiosity
+1 Narcolepsy
+1 Rousing Read
+1 Thriving Isle
+7 Island
+Well-Read 2
+1 Erratic Visionary
+1 Library Larcenist
+1 Oneirophage
+1 Ormos, Archive Keeper
+1 Runed Servitor
+1 Tolarian Kraken
+1 Tome Anima
+1 Opt
+1 Arcane Encyclopedia
+1 Capture Sphere
+1 Curiosity
+1 Rousing Read
+1 Thriving Isle
+7 Island
+Well-Read 3
+1 Cloudreader Sphinx
+1 Erratic Visionary
+1 Library Larcenist
+1 Oneirophage
+1 Runed Servitor
+1 Suspicious Bookcase
+1 Tolarian Kraken
+1 Tome Anima
+1 Opt
+1 Curiosity
+1 Narcolepsy
+1 Rhystic Study
+1 Thriving Isle
+7 Island
+Well-Read 4
+1 Cloudreader Sphinx
+1 Library Larcenist
+1 Mystic Archaeologist
+1 Oneirophage
+1 Runed Servitor
+1 Suspicious Bookcase
+1 Tolarian Kraken
+1 Tome Anima
+1 Opt
+1 Read the Runes
+1 Capture Sphere
+1 Curiosity
+1 Thriving Isle
+7 Island
+Wizards 1
+1 Exclusion Mage 
+1 Sage's Row Savant 
+1 Shipwreck Dowser
+1 Talrand, Sky Summoner
+1 Vodalian Arcanist
+1 Read the Tides
+1 Talrand's Invocation 
+1 Winged Words
+1 Befuddle 
+1 Frost Breath 
+1 Opt
+1 Wizard's Retort 
+1 Thriving Isle
+7 Island
+Wizards 2
+1 Crookclaw Transmuter
+1 Exclusion Mage  
+1 Sage's Row Savant 
+1 Sea Gate Oracle 
+1 Shipwreck Dowser
+1 Vodalian Arcanist
+1 Read the Tides 
+1 Talrand's Invocation 
+1 Winged Words
+1 Opt
+1 Rookie Mistake
+1 Wizard's Retort 
+1 Thriving Isle 
+1 Riptide Laboratory 
+6 Island
+Wizards 3
+1 Sage's Row Savant 
+1 Shipwreck Dowser 
+1 Talrand, Sky Summoner 
+1 Teferi's Protege 
+1 Vodalian Arcanist
+1 Read the Tides
+1 Talrand's Invocation 
+1 Winged Words
+1 Opt
+1 Unsubstantiate
+1 Wizard's Retort
+1 Capture Sphere
+1 Thriving Isle
+7 Island 
+Wizards 4
+1 Barrin, Tolarian Archmage
+1 Sage's Row Savant  
+1 Shipwreck Dowser 
+1 Storm Sculptor 
+1 Teferi's Protege 
+1 Vodalian Arcanist
+1 Read the Tides 
+1 Talrand's Invocation
+1 Frost Breath
+1 Peel from Reality 
+1 Rain of Revelation 
+1 Wizard's Retort 
+1 Thriving Isle
+7 Island 
+Liliana
+1 Blighted Bat
+1 Ghoulraiser
+1 Goremand
+1 Liliana's Devotee
+1 Liliana's Elite
+1 Liliana's Standard Bearer
+1 Liliana's Steward
+1 Wailing Ghoul
+1 Liliana, Waker of the Dead
+1 Cemetery Recruitment
+1 Rise Again
+1 Settle the Score
+1 Thriving Moor
+7 Swamp
+Phyrexian
+1 Entomber Exarch
+1 Myr Sire
+1 Perilous Myr
+1 Phyrexian Broodlings
+1 Phyrexian Gargantua
+1 Phyrexian Debaser
+1 Phyrexian Rager
+1 Sheoldred, Whispering One
+1 Douse in Gloom
+1 Parasitic Implant
+1 Phyrexian Reclamation
+1 Malefic Scythe
+1 Thriving Moor
+7 Swamp
+Discarding 1
+1 Burglar Rat
+1 Entomber Exarch
+1 Fell Specter
+1 Phyrexian Rager
+1 Ravenous Chupacabra
+1 Slate Street Ruffian
+1 Tinybones, Trinket Thief
+2 Wight of Precinct Six
+1 Assassin's Strike 
+1 Mind Rot
+1 Death's Approach
+1 Thriving Moor
+7 Swamp
+Discarding 2
+1 Burglar Rat
+1 Entomber Exarch
+1 Fell Specter
+1 Liliana's Reaver
+1 Nyxathid
+1 Phyrexian Rager
+1 Ravenous Chupacabra
+1 Slate Street Ruffian
+2 Wight of Precinct Six
+1 Assassin's Strike 
+1 Death's Approach
+1 Thriving Moor
+7 Swamp
+Rogues 1
+1 Gonti, Lord of Luxury
+1 Lawless Broker
+1 Masked Blackguard
+1 Mausoleum Turnkey
+1 Nightshade Stinger
+1 Nocturnal Feeder
+1 Oona's Blackguard
+1 Thieves' Guild Enforcer
+1 Alchemist's Gift
+1 Finishing Blow
+1 Stab Wound
+1 Rogue's Gloves
+1 Thriving Moor
+7 Swamp
+Rogues 2
+1 Corpse Hauler
+1 Corpse Traders
+1 Lawless Broker
+1 Masked Blackguard
+1 Nightshade Stinger
+1 Nocturnal Feeder
+1 Oona's Blackguard
+1 Thieves' Guild Enforcer
+1 Alchemist's Gift
+1 Last Gasp
+1 Stab Wound
+1 Rogue's Gloves
+1 Thriving Moor
+7 Swamp
+Witchcraft 1
+1 Bloodhunter Bat
+1 Bogbrew Witch
+1 Cauldron Familiar
+2 Festering Newt
+1 Malakir Familiar
+1 Tempting Witch
+1 Witch of the Moors
+1 Bake into a Pie
+1 Finishing Blow
+1 Bubbling Cauldron
+1 Witch's Cauldron
+1 Thriving Moor
+7 Swamp
+Witchcraft 2
+1 Black Cat
+1 Bloodhunter Bat
+1 Bogbrew Witch
+2 Festering Newt
+1 Swarm of Bloodflies
+1 Tempting Witch
+1 Witch of the Moors
+1 Bake into a Pie
+1 Last Gasp
+1 Blood Divination
+1 Bubbling Cauldron
+1 Thriving Moor
+7 Swamp
+Minions 1
+1 Bone Picker
+1 Crypt Lurker
+1 Dutiful Attendant
+1 Ghoulcaller's Accomplice
+1 Goremand
+1 Kels, Fight Fixer
+1 Nocturnal Feeder
+1 Shambling Goblin
+1 Eliminate
+1 Village Rites
+1 Innocent Blood
+1 Witch's Cauldron
+1 Thriving Moor
+7 Swamp
+Minions 2
+1 Crypt Lurker
+1 Drainpipe Vermin
+1 Dutiful Attendant
+1 Eternal Taskmaster
+1 Ghoulcaller's Accomplice
+1 Goremand
+1 Kels, Fight Fixer
+1 Nocturnal Feeder
+1 Eliminate
+1 Village Rites
+1 Bone Splinters
+1 Witch's Cauldron
+1 Thriving Moor
+7 Swamp
+Minions 3
+1 Crypt Lurker
+1 Drainpipe Vermin
+1 Dutiful Attendant
+1 Fetid Imp
+1 Ghoulcaller's Accomplice
+1 Goremand
+1 Liliana's Devotee
+1 Nocturnal Feeder
+1 Eliminate
+1 Launch Party
+1 Village Rites
+1 Witch's Cauldron
+1 Phyrexian Tower
+1 Thriving Moor
+6 Swamp
+Minions 4
+1 Dutiful Attendant
+1 Fetid Imp
+1 Ghoulcaller's Accomplice
+1 Ghoulcaller Gisa
+1 Goremand
+1 Liliana's Devotee
+1 Nocturnal Feeder
+1 Shambling Goblin
+1 Eliminate
+1 Village Rites
+1 Innocent Blood
+1 Witch's Cauldron
+1 Thriving Moor
+7 Swamp
+Reanimated 1
+1 Archfiend's Vessel
+1 Cadaver Imp
+1 Crow of Dark Tidings
+1 Crypt Lurker
+1 Goremand
+1 Miasmic Mummy
+1 Mire Triton
+1 Tithebearer Giant
+1 Eliminate
+1 Funeral Rites
+1 Reanimate
+1 Rise Again
+1 Thriving Moor
+7 Swamp
+Reanimated 2
+1 Carrion Grub
+1 Crow of Dark Tidings
+1 Crypt Lurker
+1 Gloom Sower
+1 Goremand
+1 Miasmic Mummy
+1 Mire Triton
+1 Eliminate
+1 Funeral Rites
+1 Macabre Waltz
+1 Reanimate
+1 Rise Again
+1 Thriving Moor
+7 Swamp
+Reanimated 3
+1 Crow of Dark Tidings
+1 Crypt Lurker
+1 Goremand
+1 Gravewaker
+1 Miasmic Mummy
+1 Mire Triton
+1 Scourge of Nel Toth
+1 Eliminate
+1 Exhume
+1 Funeral Rites
+1 Rise Again
+1 Zombie Infestation
+1 Thriving Moor
+7 Swamp
+Reanimated 4
+1 Carrion Grub
+1 Crow of Dark Tidings
+1 Crypt Lurker
+1 Goremand
+1 Gloom Sower
+1 Miasmic Mummy
+1 Mire Triton
+1 Eliminate
+1 Funeral Rites
+1 Rise Again
+1 Rise of the Dark Realms
+1 Soul Salvage
+1 Thriving Moor
+7 Swamp
+Spooky 1
+1 Bone Picker
+1 Caged Zombie
+1 Crypt Lurker
+1 Dutiful Attendant
+1 Eternal Taskmaster
+1 Fetid Imp
+1 Gristle Grinner
+1 Liliana's Standard Bearer
+1 Finishing Blow
+1 Village Rites
+1 Barter in Blood
+1 Malefic Scythe
+1 Thriving Moor
+7 Swamp
+Spooky 2
+1 Bone Picker
+1 Caged Zombie
+1 Crypt Lurker
+1 Dutiful Attendant
+1 Eternal Taskmaster
+1 Gristle Grinner
+1 Harvester of Souls
+1 Sanitarium Skeleton
+1 Finishing Blow
+1 Barter in Blood
+1 Bone Splinters
+1 Malefic Scythe
+1 Thriving Moor
+7 Swamp
+Spooky 3
+1 Bone Picker
+1 Caged Zombie
+1 Crypt Lurker
+1 Dutiful Attendant
+1 Eternal Taskmaster
+1 Fetid Imp
+1 Gristle Grinner 
+1 Liliana's Devotee
+1 Ogre Slumlord
+1 Finishing Blow
+1 Languish
+1 Malefic Scythe
+1 Thriving Moor
+7 Swamp
+Spooky 4
+1 Bone Picker
+1 Caged Zombie 
+1 Crypt Lurker
+1 Dutiful Attendant
+1 Eternal Taskmaster
+1 Gristle Grinner
+1 Liliana's Devotee
+1 Plagued Rusalka
+1 Sanitarium Skeleton
+1 Finishing Blow
+1 Malefic Scythe
+1 Black Market
+1 Thriving Moor
+7 Swamp
+Vampires 1
+1 Blood Artist
+1 Bloodbond Vampire
+1 Gifted Aetherborn
+1 Gloom Sower
+1 Kalastria Nightwatch
+1 Nocturnal Feeder
+1 Silversmote Ghoul
+1 Vito, Thorn of the Dusk Rose
+1 Agonizing Syphon
+1 Sanguine Indulgence
+1 Last Gasp
+1 Eternal Thirst
+1 Thriving Moor
+7 Swamp
+Vampires 2
+1 Blood Host
+1 Bloodbond Vampire
+1 Child of Night
+1 Gifted Aetherborn
+1 Gloom Sower
+1 Nocturnal Feeder
+1 Silversmote Ghoul
+1 Vito, Thorn of the Dusk Rose
+1 Agonizing Syphon
+1 Sanguine Indulgence
+1 Last Gasp
+1 Eternal Thirst
+1 Thriving Moor
+7 Swamp
+Vampires 3
+1 Bloodbond Vampire
+1 Gifted Aetherborn
+1 Gloom Sower
+1 Nocturnal Feeder
+1 Sangromancer
+1 Sengir Vampire
+1 Silversmote Ghoul
+1 Vampire Neonate
+1 Agonizing Syphon
+1 Sanguine Indulgence
+1 Last Gasp
+1 Exquisite Blood
+1 Thriving Moor
+7 Swamp
+Vampires 4
+1 Bloodbond Vampire
+1 Child of Night
+1 Drana, Liberator of Malakir
+1 Falkenrath Noble
+1 Gifted Aetherborn
+1 Gloom Sower
+1 Nocturnal Feeder
+1 Silversmote Ghoul
+1 Agonizing Syphon
+1 Sanguine Indulgence
+1 Last Gasp
+1 Mark of the Vampire
+1 Thriving Moor
+7 Swamp
+Chandra
+1 Chandra's Incinerator
+2 Chandra's Magmutt
+1 Chandra's Pyreling
+1 Fanatical Firebrand
+1 Pyroclastic Elemental
+1 Young Pyromancer
+1 Chandra, Heart of Fire
+1 Hungry Flames
+1 Thrill of Possibility
+1 Flames of the Firebrand
+1 Pillar of Flame
+1 Thriving Bluff
+7 Mountain
+Seismic
+1 Ashmouth Hound
+1 Bloodrock Cyclops
+1 Cinder Elemental
+1 Grim Lavamancer
+1 Molten Ravager
+1 Seismic Elemental
+1 Magma Jet
+1 Magmaquake
+1 Volcanic Fallout
+1 Volcanic Geyser
+1 Spitting Earth
+1 Mana Geode
+1 Thriving Bluff
+7 Mountain
+Dragons 1
+1 Dragonloft Idol
+1 Dragonspeaker Shaman
+1 Dragon Hatchling
+1 Hellkite Punisher
+1 Lightning Shrieker
+1 Rapacious Dragon
+1 Terror of the Peaks
+1 Draconic Roar
+1 Thrill of Possibility
+1 Bathe in Dragonfire
+1 Dragon Fodder
+1 Thriving Bluff
+8 Mountain
+Dragons 2
+1 Dragonlord's Servant
+1 Dragon Hatchling
+1 Furnace Whelp
+1 Gadrak, the Crown-Scourge
+1 Hellkite Punisher
+1 Lathliss, Dragon Queen
+1 Lightning Shrieker
+1 Rapacious Dragon
+1 Draconic Roar
+1 Sarkhan's Rage
+1 Dragon Fodder
+1 Thriving Bluff
+8 Mountain
+Lightning 1
+1 Lightning Elemental 
+1 Lightning Phoenix 
+1 Lightning Shrieker
+2 Lightning Visionary 
+1 Lightning-Core Excavator 
+1 Living Lightning 
+1 Weaver of Lightning 
+1 Homing Lightning 
+1 Lightning Axe 
+1 Lightning Bolt
+1 Lightning Diadem
+1 Thriving Bluff
+7 Mountain
+Lightning 2
+1 Ball Lightning 
+1 Lightning Elemental
+1 Lightning Phoenix 
+2 Lightning Visionary 
+1 Lightning-Core Excavator 
+1 Living Lightning 
+1 Weaver of Lightning 
+1 Chain Lightning
+1 Lightning Axe
+1 Riddle of Lightning
+1 Lightning Diadem
+1 Thriving Bluff
+7 Mountain
+Minotaurs 1
+1 Bloodrage Brawler
+1 Borderland Minotaur
+1 Lightning Visionary
+1 Minotaur Skullcleaver
+1 Minotaur Sureshot
+1 Sethron, Hurloon General
+1 Warfire Javelineer
+1 Soul Sear
+1 Sure Strike
+1 Flurry of Horns
+1 Mugging
+1 Herald's Horn
+1 Thriving Bluff
+7 Mountain
+Minotaurs 2
+1 Bloodrage Brawler
+1 Borderland Minotaur
+1 Lightning Visionary
+1 Minotaur Skullcleaver
+1 Minotaur Sureshot
+1 Rageblood Shaman
+1 Sethron, Hurloon General
+1 Soul Sear
+1 Sure Strike
+1 Unleash Fury
+1 Flurry of Horns
+1 Traitorous Greed
+1 Thriving Bluff
+7 Mountain
+Devilish 1
+1 Chained Brute
+1 Forge Devil
+1 Havoc Jester
+1 Hobblefiend
+1 Pitchburn Devils
+1 Spiteful Prankster
+1 Torch Fiend
+1 Zurzoth, Chaos Rider
+1 Collateral Damage
+1 Dance with Devils
+1 Heartfire
+1 Traitorous Greed
+1 Thriving Bluff
+7 Mountain
+Devilish 2
+1 Chained Brute
+1 Havoc Jester
+1 Hobblefiend
+1 Pitchburn Devils
+1 Spiteful Prankster
+1 Tibalt's Rager
+2 Torch Fiend
+1 Zurzoth, Chaos Rider
+1 Collateral Damage
+1 Heartfire
+1 Traitorous Greed
+1 Thriving Bluff
+7 Mountain
+Devilish 3
+1 Brash Taunter
+1 Chained Brute
+1 Havoc Jester
+1 Hobblefiend
+1 Lightning-Core Excavator
+1 Pitchburn Devils
+1 Spiteful Prankster
+1 Torch Fiend
+1 Collateral Damage
+1 Dance with Devils
+1 Act of Treason
+1 Traitorous Greed
+1 Thriving Bluff
+7 Mountain
+Devilish 4
+1 Chained Brute
+1 Havoc Jester
+1 Hellrider
+1 Hobblefiend
+1 Lightning-Core Excavator
+1 Pitchburn Devils
+1 Sin Prodder
+1 Spiteful Prankster
+1 Collateral Damage
+1 Act of Treason
+1 Traitorous Greed
+1 Barrage of Expendables
+1 Thriving Bluff
+7 Mountain
+Goblins 1
+1 Beetleback Chief
+1 Boggart Brute
+1 Goblin Arsonist
+1 Goblin Commando
+1 Goblin Instigator
+1 Goblin Shortcutter
+1 Muxus, Goblin Grandee
+1 Ornery Goblin
+1 Volley Veteran
+1 Outnumber
+1 Shock
+1 Makeshift Munitions
+1 Thriving Bluff
+7 Mountain
+Goblins 2
+1 Battle-Rattle Shaman
+1 Beetleback Chief
+1 Boggart Brute
+1 Goblin Arsonist
+1 Goblin Commando
+1 Goblin Instigator
+1 Goblin Shortcutter
+1 Muxus, Goblin Grandee
+1 Ornery Goblin
+1 Burn Bright
+1 Outnumber
+1 Makeshift Munitions
+1 Thriving Bluff
+7 Mountain
+Goblins 3
+1 Beetleback Chief
+1 Boggart Brute
+1 Goblin Arsonist
+1 Goblin Chieftain
+1 Goblin Commando
+1 Goblin Goon
+1 Goblin Instigator
+1 Goblin Shortcutter
+1 Ornery Goblin
+1 Volley Veteran
+1 Shock
+1 Makeshift Munitions
+1 Thriving Bluff
+7 Mountain
+Goblins 4
+1 Boggart Brute
+1 Goblin Arsonist
+1 Goblin Commando
+1 Goblin Instigator
+1 Goblin Shortcutter
+1 Krenko, Mob Boss
+1 Ornery Goblin
+1 Burn Bright
+1 Outnumber
+1 Goblin Lore
+1 Goblin Rally
+1 Makeshift Munitions
+1 Thriving Bluff
+7 Mountain
+Smashing 1
+1 Bloodrage Brawler
+1 Bone Pit Brute
+1 Borderland Marauder
+1 Flametongue Kavu
+1 Heartfire Immolator
+1 Onakke Ogre
+1 Turret Ogre
+1 Fling
+1 Shock
+1 Unleash Fury
+1 Volcanic Salvo
+1 Furious Rise
+1 Thriving Bluff
+7 Mountain
+Smashing 2
+1 Bloodrage Brawler
+1 Bone Pit Brute
+1 Borderland Marauder
+1 Heartfire Immolator
+1 Onakke Ogre
+1 Turret Ogre
+1 Flames of the Raze-Boar
+1 Fling
+1 Hungry Flames
+1 Volcanic Salvo
+1 Furious Rise
+1 Short Sword
+1 Thriving Bluff
+7 Mountain
+Smashing 3
+1 Bloodrage Brawler
+1 Bone Pit Brute
+1 Borderland Marauder
+1 Hamletback Goliath
+1 Heartfire Immolator
+1 Inferno Hellion
+1 Onakke Ogre
+1 Turret Ogre
+1 Fling
+1 Unleash Fury
+1 Furious Rise
+1 Sarkhan's Unsealing
+1 Thriving Bluff
+7 Mountain
+Smashing 4
+1 Bloodrage Brawler
+1 Bloodshot Trainee
+1 Bone Pit Brute
+1 Borderland Marauder
+1 Etali, Primal Storm
+1 Heartfire Immolator
+1 Onakke Ogre
+1 Turret Ogre
+1 Fling
+1 Hungry Flames
+1 Furious Rise
+1 Furor of the Bitten
+1 Thriving Bluff
+7 Mountain
+Spellcasting 1
+1 Chandra's Pyreling
+1 Heartfire Immolator
+1 Kinetic Augur
+1 Lightning Visionary
+1 Living Lightning
+1 Thermo-Alchemist 
+1 Blindblast
+1 Hungry Flames
+1 Shock
+1 Thrill of Possibility
+1 Goblin Wizardry
+1 Double Vision
+1 Thriving Bluff
+7 Mountain
+Spellcasting 2
+1 Chandra's Pyreling
+1 Heartfire Immolator
+1 Kiln Fiend
+1 Kinetic Augur
+1 Lightning Visionary
+1 Thermo-Alchemist
+1 Young Pyromancer
+1 Flame Lash
+1 Hungry Flames
+1 Shock
+1 Thrill of Possibility 
+1 Double Vision
+1 Thriving Bluff
+7 Mountain
+Spellcasting 3
+1 Chandra's Pyreling
+1 Charmbreaker Devils
+1 Dualcaster Mage
+1 Heartfire Immolator
+1 Kinetic Augur
+1 Lightning Visionary
+1 Living Lightning
+1 Thermo-Alchemist
+1 Hungry Flames
+1 Shock
+1 Thrill of Possibility 
+1 Dragon Fodder
+1 Thriving Bluff
+7 Mountain
+Spellcasting 4
+1 Chandra's Pyreling
+1 Heartfire Immolator
+1 Kiln Fiend
+1 Kinetic Augur
+1 Lightning Visionary
+1 Thermo-Alchemist
+1 Hungry Flames
+1 Shock
+1 Thrill of Possibility 
+1 Crash Through
+1 Doublecast
+1 Immolating Gyre
+1 Thriving Bluff
+7 Mountain
+Garruk
+1 Affectionate Indrik
+1 Brushstrider
+1 Drowsing Tyrannodon
+1 Garruk's Gorehorn
+1 Garruk's Harbinger
+1 Orazca Frillback
+1 Rumbling Baloth
+1 Garruk, Unleashed
+1 Hunter's Insight
+1 Ranger's Guile
+1 Hunter's Edge
+1 Garruk's Uprising
+1 Thriving Grove
+7 Forest
+Walls
+1 Carven Caryatid
+1 Gargoyle Sentinel
+1 Grave Bramble
+1 Overgrown Battlement
+1 Portcullis Vine
+1 Roving Keep
+1 Towering Titan
+1 Wall of Blossoms
+1 Wall of Vines
+1 Crushing Canopy
+1 Warmonger's Chariot
+1 Assault Formation
+1 Thriving Grove
+7 Forest
+Cats 1
+1 Canopy Stalker
+1 Feline Sovereign
+1 Feral Prowler
+1 Initiate's Companion
+1 Keeper of Fables
+1 Pouncing Cheetah
+1 Pridemalkin
+1 Sabertooth Mauler
+1 Crushing Canopy
+1 Enlarge
+1 Nature's Way
+1 Feral Invocation
+1 Thriving Grove
+7 Forest
+Cats 2
+1 Canopy Stalker
+1 Feline Sovereign
+1 Feral Prowler
+1 Initiate's Companion
+1 Keeper of Fables
+1 Penumbra Bobcat
+1 Pridemalkin
+1 Crushing Canopy
+1 Enlarge
+1 Nature's Way
+1 Feral Invocation
+1 Lurking Predators
+1 Thriving Grove
+7 Forest
+Elves 1
+1 Craterhoof Behemoth
+1 Elvish Archdruid
+1 Dwynen's Elite
+1 Ghirapur Guide
+1 Llanowar Visionary
+1 Silhana Wayfinder
+1 Skyway Sniper
+1 Wildheart Invoker
+1 Crushing Canopy
+1 Titanic Growth 
+1 Hunter's Edge
+1 Presence of Gond
+1 Thriving Grove
+7 Forest
+Elves 2
+1 Allosaurus Shepherd
+1 Dwynen's Elite
+1 Leaf Gilder
+1 Llanowar Visionary
+1 Silhana Wayfinder
+1 Skyway Sniper
+1 Wildheart Invoker
+1 Wren's Run Vanquisher
+1 Crushing Canopy
+1 Titanic Growth 
+1 Hunter's Edge
+1 Presence of Gond
+1 Thriving Grove
+7 Forest
+Lands 1
+1 Awakener Druid
+1 Fa'adiyah Seer
+1 Feral Hydra
+1 Fertilid
+1 Sylvan Ranger
+1 Ulvenwald Hydra
+1 Wildheart Invoker
+1 Crushing Canopy
+1 Elemental Uprising
+1 Cultivate
+1 Vastwood Zendikon
+1 Zendikar's Roil
+1 Thriving Grove
+7 Forest
+Lands 2
+1 Awakener Druid
+1 Fa'adiyah Seer
+1 Feral Hydra
+1 Fertilid
+1 Oracle of Mul Daya
+1 Sporemound
+1 Sylvan Ranger
+1 Wildheart Invoker
+1 Woodborn Behemoth
+1 Crushing Canopy
+1 Elemental Uprising
+1 Cultivate
+1 Thriving Grove
+7 Forest
+Dinosaurs 1
+1 Colossal Dreadmaw
+1 Drover of the Mighty
+1 Drowsing Tyrannodon
+1 Ghalta, Primal Hunger
+1 Orazca Frillback
+1 Ornery Dilophosaur
+1 Thrashing Brontodon
+1 Crushing Canopy
+1 Commune with Dinosaurs
+1 Cultivate
+1 Savage Stomp
+1 Setessan Training
+1 Thriving Grove
+7 Forest
+Dinosaurs 2
+1 Colossal Dreadmaw
+1 Drover of the Mighty
+1 Drowsing Tyrannodon
+1 Orazca Frillback
+1 Ornery Dilophosaur
+1 Selvala, Heart of the Wilds
+1 Thundering Spineback
+1 Crushing Canopy
+1 Commune with Dinosaurs
+1 Savage Stomp
+1 Garruk's Uprising
+1 New Horizons
+1 Thriving Grove
+7 Forest
+Dinosaurs 3
+1 Colossal Dreadmaw
+1 Drover of the Mighty
+1 Drowsing Tyrannodon
+1 Ghalta, Primal Hunger
+1 Orazca Frillback
+1 Ornery Dilophosaur
+1 Thundering Spineback
+1 Crushing Canopy
+1 Titanic Growth
+1 Commune with Dinosaurs
+1 Cultivate
+1 Savage Stomp
+1 Thriving Grove
+7 Forest
+Dinosaurs 4
+1 Colossal Dreadmaw
+1 Drover of the Mighty
+1 Drowsing Tyrannodon
+1 Orazca Frillback
+1 Ornery Dilophosaur
+1 Rampaging Brontodon
+1 Thrashing Brontodon
+1 Commune with Dinosaurs
+1 Primal Might
+1 Savage Stomp
+1 Garruk's Uprising
+1 New Horizons
+1 Thriving Grove
+7 Forest
+Plus One 1
+1 Armorcraft Judge
+1 Fertilid
+1 Ironshell Beetle
+1 Nessian Hornbeetle
+1 Pridemalkin
+1 Trufflesnout
+1 Wildwood Scourge
+1 Arbor Armament
+1 Invigorating Surge
+1 Hunter's Edge
+1 Primeval Bounty
+1 Thriving Grove
+8 Forest
+Plus One 2
+1 Armorcraft Judge
+1 Fertilid
+1 Ironshell Beetle
+1 Nessian Hornbeetle
+1 Pridemalkin
+1 Trufflesnout
+1 Wildwood Scourge
+1 Arbor Armament
+1 Invigorating Surge
+1 Hunter's Edge 
+1 Branching Evolution
+1 Thriving Grove
+8 Forest
+Plus One 3
+1 Fertilid
+1 Nessian Hornbeetle
+1 Pridemalkin
+1 Rishkar, Peema Renegade
+1 Scrounging Bandar
+1 Trufflesnout 
+1 Wildwood Scourge
+1 Arbor Armament 
+1 Inspiring Call
+1 Invigorating Surge
+1 Hunter's Edge
+1 Thriving Grove
+8 Forest
+Plus One 4
+1 Champion of Lambholt
+1 Nessian Hornbeetle
+1 Pridemalkin
+1 Scrounging Bandar 
+1 Trufflesnout
+1 Wildwood Scourge
+1 Arbor Armament
+1 Invigorating Surge
+1 Lifecrafter's Gift
+1 Hunter's Edge 
+1 Branching Evolution
+1 Thriving Grove
+8 Forest
+Predatory 1
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Neyith of the Dire Hunt
+1 Sabertooth Mauler
+1 Somberwald Stag
+1 Sylvan Brushstrider
+1 Trufflesnout
+1 Crushing Canopy
+1 Fungal Rebirth
+1 Irresistible Prey
+1 Time to Feed
+1 Marauder’s Axe
+1 Thriving Grove
+7 Forest
+Predatory 2
+1 Affectionate Indrik
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Gingerbrute
+1 Neyith of the Dire Hunt
+1 Sabertooth Mauler
+1 Trufflesnout
+1 Crushing Canopy
+1 Fungal Rebirth
+1 Irresistible Prey
+1 Time to Feed
+1 Marauder’s Axe
+1 Thriving Grove
+7 Forest
+Predatory 3
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Gingerbrute
+1 Sabertooth Mauler
+1 Somberwald Stag
+1 Thragtusk
+1 Trufflesnout
+1 Crushing Canopy
+1 Fungal Rebirth
+1 Irresistible Prey
+1 Time to Feed
+1 Marauder’s Axe
+1 Thriving Grove
+7 Forest
+Predatory 4
+1 Affectionate Indrik
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Ravenous Baloth
+1 Sabertooth Mauler
+1 Sylvan Brushstrider
+1 Trufflesnout
+1 Crushing Canopy
+1 Momentous Fall
+1 Fungal Rebirth
+1 Irresistible Prey
+1 Time to Feed
+1 Thriving Grove
+7 Forest
+Tree-Hugging 1
+1 Ambassador Oak
+1 Burlfist Oak
+1 Gnarled Sage
+1 Llanowar Visionary
+1 Primordial Sage
+1 Snarespinner
+1 Wall of Blossoms
+1 Warden of the Woods
+1 Aggressive Urge
+1 Crushing Canopy
+1 Explore
+1 Nature's Way
+1 Thriving Grove
+7 Forest
+Tree-Hugging 2
+1 Ambassador Oak
+1 Burlfist Oak
+1 Gnarled Sage
+1 Llanowar Visionary
+1 Primordial Sage
+1 Snarespinner
+1 Wall of Blossoms
+1 Warden of the Woods
+1 Crushing Canopy
+1 Wildsize
+1 Explore
+1 Nature's Way
+1 Thriving Grove
+7 Forest
+Tree-Hugging 3
+1 Ambassador Oak
+1 Burlfist Oak
+1 Gnarled Sage
+1 Jolrael, Mwonvuli Recluse
+1 Llanowar Visionary
+1 Snarespinner
+1 Wall of Blossoms
+1 Warden of the Woods
+1 Aggressive Urge
+1 Crushing Canopy
+1 Explore
+1 Nature's Way
+1 Thriving Grove
+7 Forest
+Tree-Hugging 4
+1 Burlfist Oak
+1 Gnarled Sage
+1 Llanowar Visionary
+1 Snarespinner
+1 Soul of the Harvest
+1 Wall of Blossoms
+1 Warden of the Woods
+1 Crushing Canopy
+1 Wildsize
+1 Explore
+1 Nature's Way
+1 Verdant Embrace
+1 Thriving Grove
+7 Forest
+Rainbow
+1 Alloy Myr
+1 Chamber Sentry
+1 Dinrova Horror
+1 Fusion Elemental
+1 Ironroot Warlord
+1 Maelstrom Archangel
+1 Prismite
+1 Raging Regisaur
+1 Skittering Surveyor
+1 Auger Spree
+1 Lawmage's Binding
+1 Prophetic Prism
+1 Mirrodin's Core
+1 Rupture Spire
+1 Terramorphic Expanse
+1 Plains
+1 Island
+1 Swamp
+1 Mountain
+1 Forest
