@@ -152,14 +152,14 @@ def main():
     dfs = {}
     for set in sets:
         data = get_data_from_set(set)
-        packs = monte_carlo.get_jset_prices(set, data)
-        df = monte_carlo.sim_n_packs(packs, n_packs=2)
+        packs = monte_carlo.get_jset_prices(set, data, 2.0)
+        df = monte_carlo.sim_n_packs(packs)
         #pack_df = pd.DataFrame(list(packs.items()), columns = ['deck', 'value'])
         print(f'{set}:')
         #print(pack_df.describe())
         print(df.describe())
         dfs[set] = df
-    
+
     colors = ['red', 'blue', 'green']
     fig, axes = plt.subplots(2, 3, figsize=(15, 8))  # 2 rows, 3 columns
 

@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 
-def get_jset_prices(set: str, data: list[dict]):
+def get_jset_prices(set: str, data: list[dict], filter:float = 0.0):
     '''
     Compiles pack options for a given jumpstart set, returning a dictionary containing
     the name of the pack and its value
@@ -24,7 +24,8 @@ def get_jset_prices(set: str, data: list[dict]):
                 nm = nm.strip()
                 for card in data:
                     if card['name'] == nm:
-                        pack_sum += card['price'] * int(ct)
+                        if card['price'] >= filter:
+                            pack_sum += card['price'] * int(ct)
         packs[current_pack] = pack_sum
     
     return packs
