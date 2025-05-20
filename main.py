@@ -1,5 +1,3 @@
-from statistics import stdev
-#import pandas as pd
 import requests
 import monte_carlo
 #import pandas as pd
@@ -76,29 +74,6 @@ def get_data_from_set(set: str) -> list:
             #no more pages, query done - return data
             return data
 
-# analysis functions #
-def max_card(data:list, key:str = 'price') -> dict:
-    max = data[0]
-    for card in data:
-        if card[key] > max[key]:
-            max = card  
-    
-    return max
-
-def mean(data:list, key:str = 'price') -> float:
-    sum = 0
-    for card in data:
-        sum += card[key]
-    
-    return sum / len(data)
-
-def standard_dev(data:list, key:str = 'price') -> float:
-    prices = []
-    for card in data:
-        prices.append(card[key])
-    
-    return stdev(prices)
-
 def calculate_odds(data:list, card_file: str | None = None) -> list[dict]:
     '''
     Appends to each dict entry in a list the odds of such entry being present in
@@ -135,25 +110,13 @@ def calculate_odds(data:list, card_file: str | None = None) -> list[dict]:
     
     return data
 
-def calculate_weighted_value(data:list) -> list[dict]:
-    '''
-    Appends to each dict entry in a list the weighted value of each card.
-
-    Simply multiplies card probability by price to weight the expected value.
-    '''
-
-    for card in data:
-        card['weighted'] = card['price'] * card['probability']
-    
-    return data
-
-def main():
+def sim_all_and_graph(n:int = 24, x:int = 100000):
     sets = ['jmp', 'j22', 'j25']
     dfs = {}
     for set in sets:
         data = get_data_from_set(set)
         packs = monte_carlo.get_jset_prices(set, data)
-        df = monte_carlo.sim_n_packs(packs, n_packs=2)
+        df = monte_carlo.sim_n_packs(packs, n_packs=n, x_sims=x)
         #pack_df = pd.DataFrame(list(packs.items()), columns = ['deck', 'value'])
         print(f'{set}:')
         #print(pack_df.describe())
@@ -164,7 +127,7 @@ def main():
     fig, axes = plt.subplots(2, 3, figsize=(15, 8))  # 2 rows, 3 columns
 
     # Add a main title for the entire figure
-    fig.suptitle('Value Distribution of 2 Jumpstart Boosters Over 1000000 Simulations', fontsize=16, fontweight='bold', y=0.98)
+    fig.suptitle('Value Distribution of 1 Jumpstart Booster Over 1000000 Simulations', fontsize=16, fontweight='bold', y=0.98)
 
     for i, (j_set, color) in enumerate(zip(sets, colors)):
         # Create histogram
@@ -206,19 +169,18 @@ def main():
     plt.tight_layout()
     plt.show()
 
-
-    # print(f'Mean: ${mean(data):.2f}')
-    # print(f'Stdev: ${standard_dev(data):.2f}')
-    # print(f'Best card: {max_card(data)}')
-    # data = calculate_odds(data)
-    # print(f'Probability of this card: {max_card(data)['name']} = %{(max_card(data)['probability'])*100:.2f}')
-    # data = calculate_weighted_value(data)
-    # print(f'Mean expected value: ${mean(data, 'weighted'):.2f}')
-    # print(f'Stdev expected value: ${standard_dev(data, 'weighted'):.2f}')
-    # print(f'Expected value of best card: {max_card(data)['name']} = ${max_card(data)['weighted']:.2f}')
-    # packs = get_jset_prices('jmp', data)
-    # for key, val in packs.items():
-    #     print(f'{key} : {val}')
+def main():
+    for set in ['jmp', 'j22', 'j25']:
+        data = get_data_from_set(set)
+        sets = monte_carlo.get_jset_prices(set, data)
+        sorted_sets = dict(sorted(sets.items(), key=lambda item: item[1], reverse=True))
+        print(set + ':')
+        for i, (key, val) in enumerate(sorted_sets.items()):
+            if i == 10:
+                break
+            
+            print(f'{key}: ${val:.2f}')
+        print()
 
 
 if __name__ == '__main__':
