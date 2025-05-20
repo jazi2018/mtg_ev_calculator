@@ -110,12 +110,12 @@ def calculate_odds(data:list, card_file: str | None = None) -> list[dict]:
     
     return data
 
-def sim_all_and_graph(n:int = 24, x:int = 100000):
+def sim_all_and_graph(n:int = 24, x:int = 100000, filt:float = 0.0):
     sets = ['jmp', 'j22', 'j25']
     dfs = {}
     for set in sets:
         data = get_data_from_set(set)
-        packs = monte_carlo.get_jset_prices(set, data)
+        packs = monte_carlo.get_jset_prices(set, data, filt)
         df = monte_carlo.sim_n_packs(packs, n_packs=n, x_sims=x)
         #pack_df = pd.DataFrame(list(packs.items()), columns = ['deck', 'value'])
         print(f'{set}:')
@@ -127,7 +127,8 @@ def sim_all_and_graph(n:int = 24, x:int = 100000):
     fig, axes = plt.subplots(2, 3, figsize=(15, 8))  # 2 rows, 3 columns
 
     # Add a main title for the entire figure
-    fig.suptitle('Value Distribution of 1 Jumpstart Booster Over 1000000 Simulations', fontsize=16, fontweight='bold', y=0.98)
+    fig.suptitle(f'Value Distribution of {n} Jumpstart Booster{"s" if n > 1 else ""} Over {x} Simulations{f" - Filtering Out Cards < ${filt:.2f}" if filt > 0.0 else ""}',
+                  fontsize=16, fontweight='bold', y=0.98)
 
     for i, (j_set, color) in enumerate(zip(sets, colors)):
         # Create histogram
@@ -170,17 +171,18 @@ def sim_all_and_graph(n:int = 24, x:int = 100000):
     plt.show()
 
 def main():
-    for set in ['jmp', 'j22', 'j25']:
-        data = get_data_from_set(set)
-        sets = monte_carlo.get_jset_prices(set, data)
-        sorted_sets = dict(sorted(sets.items(), key=lambda item: item[1], reverse=True))
-        print(set + ':')
-        for i, (key, val) in enumerate(sorted_sets.items()):
-            if i == 10:
-                break
+    # for set in ['jmp', 'j22', 'j25']:
+    #     data = get_data_from_set(set)
+    #     sets = monte_carlo.get_jset_prices(set, data)
+    #     sorted_sets = dict(sorted(sets.items(), key=lambda item: item[1], reverse=True))
+    #     print(set + ':')
+    #     for i, (key, val) in enumerate(sorted_sets.items()):
+    #         if i == 10:
+    #             break
             
-            print(f'{key}: ${val:.2f}')
-        print()
+    #         print(f'{key}: ${val:.2f}')
+    #     print()
+    sim_all_and_graph(filt=3)
 
 
 if __name__ == '__main__':
