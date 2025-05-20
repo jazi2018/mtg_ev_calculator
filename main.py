@@ -122,7 +122,7 @@ def sim_all_and_graph(n:int = 24, x:int = 100000):
         #print(pack_df.describe())
         print(df.describe())
         dfs[set] = df
-    
+
     colors = ['red', 'blue', 'green']
     fig, axes = plt.subplots(2, 3, figsize=(15, 8))  # 2 rows, 3 columns
 
